@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklfa_documentation=self.webpackChunklfa_documentation||[]).push([[1878],{5510:o=>{o.exports=JSON.parse('{"permalink":"/lfa-documentation/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

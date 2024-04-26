@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklfa_documentation=self.webpackChunklfa_documentation||[]).push([[6599],{5263:e=>{e.exports=JSON.parse('{"permalink":"/lfa-documentation/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

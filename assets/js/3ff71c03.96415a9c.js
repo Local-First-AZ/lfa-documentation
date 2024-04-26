@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklfa_documentation=self.webpackChunklfa_documentation||[]).push([[4566],{8475:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/lfa-documentation/blog/tags/facebook","allTagsPath":"/lfa-documentation/blog/tags","count":1,"unlisted":false}')}}]);
